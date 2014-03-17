@@ -13,6 +13,8 @@ public class DateConversion {
 	 */
 	public static void main(String[] args) {
 		
+		System.out.println();
+		
 		/*DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
 		Calendar cal = Calendar.getInstance();				  
 	    String minDate = dateFormat.format(cal.getTime());
