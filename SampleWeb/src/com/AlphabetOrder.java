@@ -13,7 +13,7 @@ public class AlphabetOrder {
     	
     	
     	
-    	
+    	System.out.println();
     	
     	int a = 0,        
     			b = 9;       		
