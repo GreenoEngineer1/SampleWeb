@@ -15,6 +15,8 @@ public class DateConversion {
 		
 		System.out.println();
 		
+		System.out.println();
+		
 		/*DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
 		Calendar cal = Calendar.getInstance();				  
 	    String minDate = dateFormat.format(cal.getTime());
