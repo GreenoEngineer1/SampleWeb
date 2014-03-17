@@ -8,6 +8,7 @@ public class DecimalRound {
 	 * @param args
 	 */
 	public static void main(String[] args) {
+		System.out.println("decimal");
 		// TODO Auto-generated method stub
 			DecimalFormat df = new DecimalFormat("0.00");
 	        String decimal = df.format(364565.14542353255);
